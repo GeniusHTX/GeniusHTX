@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeniusHTX
-- 👀 I’m interested in ML,DL
-- 🌱 I’m currently learning Pytorch, tensorflow
-- 📫 How to reach me ， hantingxv@163.com
+- 👀 My research interest includes model robustness and LLM Reasoning.
+- 🌱 I’m currently working toward the Ph.D. degree in Software Institute at Nanjing University, Nanjing, China.
+- 📫 How to reach me， txhan@smail.nju.edu.cn
 
 <!---
 GeniusHTX/GeniusHTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
